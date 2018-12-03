@@ -1,0 +1,23 @@
+UI elements must be children of canvas
+EventSystem must be in scene
+Canvas rendering order is determined by hierarchy
+
+Para usar diversas resoluções de tela: usar canvas scaler e setar resolução padrão
+	Isto funciona bem quando o aspect ratio é mantido
+	
+	
+Projeto: definir resolução alvo
+
+
+
+Raycasting (block/receive raycast)
+Scrow view: 
+	Delete bars
+	Clamped
+	
+Content Size Fitter and Auto Layout:
+	Set pivot to adjust auto-alignment
+	
+	
+For cards list insertion:
+	SetSiblingIndex(int index)
