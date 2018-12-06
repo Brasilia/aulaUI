@@ -21,3 +21,19 @@ Content Size Fitter and Auto Layout:
 	
 For cards list insertion:
 	SetSiblingIndex(int index)
+	
+	
+
+Project Decisions
+	Target Audience
+	Platforms
+	Art Style
+	Resolutions
+	Reference Resolution
+	https://www.gamasutra.com/blogs/KenanBolukbasi/20171002/306822/Scaling_and_MultiResolution_in_2D_Games.php
+	
+RectTransform
+	Anchors
+	Pivot
+	
+	
